@@ -1,0 +1,12 @@
+/* fontStyle */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Vina+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Pacifico&family=Vina+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Caveat&family=Pacifico&family=Vina+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Caveat&family=Pacifico&family=Special+Elite&family=Vina+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Caveat&family=Monoton&family=Pacifico&family=Special+Elite&family=Vina+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Caveat&family=Monoton&family=Montserrat:wght@100&family=Pacifico&family=Special+Elite&family=Vina+Sans&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
