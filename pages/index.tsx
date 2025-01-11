@@ -228,7 +228,7 @@ const IndexPage = () => {
           VDDTA: [
             {
               poster: '',
-              url: 'https://heyboss-component-library-images.s3.amazonaws.com/miss_korea_main_video_74983ecdf0.mp4?updated_at=2024-09-27T04:43:46.178Z'
+              url: 'https://heyboss-component-library-images.s3.amazonaws.com/miss_korea_main_video_74983ecdf0_0142904edf.mp4?updated_at=2025-01-11T19:12:12.401Z'
             }
           ],
           VDDD: 1000
